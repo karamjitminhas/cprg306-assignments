@@ -50,6 +50,11 @@ export default function Home() {
             Week 9 - Shopping List with Auth
           </Link>
         </li>
+        <li>
+          <Link href="/week-10" className="text-blue-600 underline">
+            Week 10 - Shopping List with Auth
+          </Link>
+        </li>
       </ul>
     </main>
   )
